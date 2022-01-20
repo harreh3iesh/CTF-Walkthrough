@@ -13,7 +13,7 @@
 2. Go to Console tab
 3. Type ```this.email``` 
 4. Type ```this.password```
-    > ![L02 C04 - A](./SCREENSHOTS/Screen%20Shot%202022-01-19%20at%208.49.10%20AM.png) 
+    > ![L02 C04 - A](./CyberStart/SCREENSHOTS/Screen%20Shot%202022-01-19%20at%208.49.10%20AM.png) 
 
     *We know that these are functions in this code by seeing the preview of functions used in the code.
     ```this.``` refers to the owner of the object*
